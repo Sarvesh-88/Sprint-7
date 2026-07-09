@@ -10,7 +10,7 @@ A modern, responsive Multi-Step Onboarding Wizard built with React for the Sprin
 
 ## Screenshot
 
-*(Add your project screenshot here)*
+https://github.com/Sarvesh-88/Sprint-7/blob/main/Sprint-7%20img.png
 
 ---
 
