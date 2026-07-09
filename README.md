@@ -4,9 +4,9 @@ A modern, responsive Multi-Step Onboarding Wizard built with React for the Sprin
 
 ## Important Links
 
-**Live Website:** https://your-live-demo-link.netlify.app/
+**Live Website:** https://sprint-7-xi.vercel.app/
 
-**Demo Video:** https://your-demo-video-link.com/
+**Demo Video:** https://drive.google.com/file/d/1pthwfInDVgOZYWIM1DmX4F3NehxJcUxD/view?usp=drivesdk
 
 ## Screenshot
 
